@@ -183,9 +183,8 @@ The most popular product categories included:
 
 # 📈 Dashboard & Visualizations
 
-> Add screenshots of your charts inside the `Images` folder and update the file names below.
 
-```markdown
+
 <img width="746" height="480" alt="Screenshot 2026-06-28 125120" src="https://github.com/user-attachments/assets/d7433de9-faa9-42d1-9921-f0d665bf2e1e" />
 
 
@@ -200,7 +199,7 @@ The most popular product categories included:
 
 <img width="1235" height="346" alt="Screenshot 2026-06-28 125409" src="https://github.com/user-attachments/assets/14175e62-1adf-4fd3-b5ba-e2d493cb6674" />
 
-```
+
 
 ---
 
