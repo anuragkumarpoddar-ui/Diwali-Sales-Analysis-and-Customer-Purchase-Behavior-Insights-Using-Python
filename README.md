@@ -200,7 +200,6 @@ The most popular product categories included:
 <img width="1235" height="346" alt="Screenshot 2026-06-28 125409" src="https://github.com/user-attachments/assets/14175e62-1adf-4fd3-b5ba-e2d493cb6674" />
 
 
-
 ---
 
 # 🎯 Skills Demonstrated
